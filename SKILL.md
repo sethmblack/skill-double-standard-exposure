@@ -3,8 +3,9 @@ name: double-standard-exposure
 description: A methodology for revealing how identical actions receive different treatment based on who performs them. This skill makes visible the unequal application of rules, judgments, and consequences that...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3859
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - double-standard-exposure
 - writing
